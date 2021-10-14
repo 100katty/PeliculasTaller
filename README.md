@@ -14,6 +14,9 @@
 
 3. Intalaciones adicionales 
   * React Navigator: https://reactnavigation.org/docs/getting-started/
+  * Axios: npm install axios
+  * Carrusel: npm install react-native-snap-carousel
+  * Iconos: npm install react-native-vector-icons
 
 4. Documentacion de la Api
   * https://www.themoviedb.org/?language=es
